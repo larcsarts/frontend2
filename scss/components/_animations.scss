@@ -1,0 +1,36 @@
+.blink-enter {
+  opacity: 0.01;
+}
+
+.blink-enter.blink-enter-active {
+  opacity: 1;
+  color: $transaction-animation-color !important;
+  transition: opacity 300ms ease-in;
+}
+
+.blink-enter.blink-enter-active td {
+  color: $transaction-animation-color !important;
+}
+
+.blink-appear {
+  opacity: 0.01;
+}
+
+.blink-appear-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in;
+}
+
+.blink-exit {
+  opacity: 1;
+}
+
+.blink-exit.blink-exit-active {
+  opacity: 0.01;
+  color: $transaction-animation-color !important;
+  transition: opacity 300ms ease-in;
+}
+
+.blink-exit.blink-exit-active td {
+  color: $transaction-animation-color !important;
+}

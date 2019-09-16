@@ -1,0 +1,73 @@
+.ant-select-selection {
+  border-radius: 0 !important;
+}
+
+.ant-select {
+  font-size: 13.3333px !important;
+}
+
+.ant-form-item-control {
+  line-height: 0 !important;
+}
+
+.ant-btn {
+  border-radius: 2px !important;
+}
+
+.ant-form-explain,
+.ant-form-extra {
+  font-size: 0.8rem !important;
+}
+
+.ant-form-extra {
+  margin-top: -10px !important;
+}
+
+.ant-alert {
+  font-family: $primary-font !important;
+  letter-spacing: 0 !important;
+  font-weight: 600 !important;
+}
+
+.ant-form-item {
+  margin-bottom: 0 !important;
+  font-family: 'SF Display', 'Open Sans', sans-serif, Arial !important;
+  letter-spacing: 0;
+}
+
+.ant-input,
+.ant-input-number {
+  background: transparent !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 0 !important;
+  color: white !important;
+  outline: none !important;
+  position: relative !important;
+  letter-spacing: 0 !important;
+  font-family: $primary-font !important;
+  font-size: 13.3333px !important;
+}
+
+.ant-input:hover,
+.ant-input:focus,
+.ant-input-number:hover,
+.ant-input-number:focus {
+  border-color: white !important;
+  color: white !important;
+  letter-spacing: 0 !important;
+  font-size: 13.3333px !important;
+}
+
+.ant-input-number-input {
+  font-family: $primary-font !important;
+  position: relative !important;
+  color: white !important;
+  outline: none !important;
+  letter-spacing: 0 !important;
+  font-size: 13.3333px !important;
+}
+
+.ant-select-dropdown-menu-item {
+  font-size: 0.9rem;
+  letter-spacing: 0;
+}
