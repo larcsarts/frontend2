@@ -72,7 +72,7 @@
     "babel-plugin-import": "^1.11.0",
     "next-babel-minify": "^1.0.0",
     "next-purgecss": "^3.0.0",
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.13.1"
   },
   "repository": {
     "type": "git",
