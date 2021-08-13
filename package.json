@@ -33,7 +33,7 @@
     "mathjs": "^5.5.0",
     "md5": "^2.2.1",
     "moment": "^2.22.2",
-    "next": "^7.0.2",
+    "next": "^11.1.0",
     "next-env": "^1.1.0",
     "next-nprogress": "^1.4.0",
     "next-redux-wrapper": "^2.0.0",
